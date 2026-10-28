@@ -1,0 +1,30 @@
+# data stays out of the repository
+*.csv
+*.tif
+*.tiff
+*.nd2
+*.jp2
+*.zip
+*.mat
+*.h5ad
+*.vzg2
+*.parquet
+*.npy
+*.pkl
+
+# outputs
+*.png
+*.pdf
+*.pptx
+*.xlsx
+out*/
+pairs_*/
+region_figures*/
+const*/
+decode*/
+insitu*/
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
