@@ -209,3 +209,9 @@ negative results are part of the record. See `archive/README.md`.
 ## Licence
 
 MIT. See `LICENSE`.
+
+## Author
+
+Prepared by: Silva Morosini, Natalia
+
+Date: November 2026
